@@ -29,3 +29,5 @@ This project simulates a corporate-grade analytics workflow covering:
 - **Gamma AI** (optional) for presentation design
 
 ---
+## PowerBi Dashboard
+<img width="1157" height="628" alt="image" src="https://github.com/user-attachments/assets/4c319e1c-41cc-4826-915e-6385e418f043" />
